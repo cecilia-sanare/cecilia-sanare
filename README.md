@@ -1,6 +1,6 @@
 ### Hiya!
 
-My name's Ceci and I go by she/her pronouns! 
+My name's Ceci and I go by she/her pronouns! <br/>
 I'm a queer woman with a passion for developing sustainable apps and libraries that aim to solve real problems.
 
 **Some such apps I'm working on~**
