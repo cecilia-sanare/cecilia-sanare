@@ -7,4 +7,4 @@ I'm a queer woman with a passion for developing sustainable apps and libraries t
 
 - [rains.cafe](https://github.com/rain-cafe/rains.cafe) (Homepage of my Org!)
 - [silvy](https://github.com/rain-cafe-xiv/silvy) (An app for creating, sharing, and collaborating on strats for XIV)
-- [rain-bot](https://github.com/rain-cafe-xiv/rain-bot) (Generic discord bot developed for the Rainbow Café discord)
+- [rain-bot](https://github.com/rain-cafe-xiv/rain-bot) (Generic discord bot developed for the Rainbow Café and sister discords)
