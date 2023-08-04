@@ -12,7 +12,7 @@ I'm a queer woman with a passion for developing sustainable apps and libraries t
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/cecilia-sanare" target="_blank"><img height="46px" alt="Twitter" title="Twitter" src="https://github-production-user-asset-6210df.s3.amazonaws.com/9692284/258496808-3a74092c-95b4-425d-8f0b-f48f29189824.png"/></a>
+  <a href="https://twitter.com/CeciliaSanare" target="_blank"><img height="46px" alt="Twitter" title="Twitter" src="https://github-production-user-asset-6210df.s3.amazonaws.com/9692284/258496808-3a74092c-95b4-425d-8f0b-f48f29189824.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/cecis" target="_blank"><img height="46px" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" title="Ko-fi" alt="Buy Me a Coffee" /></a>
 </p>
