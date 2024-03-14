@@ -11,7 +11,7 @@ I'm a queer woman with a passion for developing sustainable apps and libraries t
 - [silvy](https://github.com/rain-cafe-xiv/silvy) (An app for creating, sharing, and collaborating on strats for XIV)
 - [flarie](https://github.com/rain-cafe/flarie) (A universal bot framework!~ 🔥)
 
-**_[Click here for the rest of my projects!](https://cecilias.me)_**
+**_[Click here for the rest of my projects!](https://sanare.dev)_**
 
 <!-- Social icons section -->
 <p align="center">
