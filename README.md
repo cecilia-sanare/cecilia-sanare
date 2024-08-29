@@ -5,11 +5,11 @@ I'm a queer woman with a passion for developing sustainable apps and libraries t
 
 **Some such apps I'm working on~**
 
-- [refreshly](https://github.com/rain-cafe/refreshly) (A simple expandable key rotation tool)
+- [protontweaks](https://github.com/ribbon-studios/protontweaks) (Automatically apply necessary protontricks to your games!)
+- [refreshly](https://github.com/ribbon-studios/refreshly) (A simple expandable key rotation tool)
 - [salte-auth](https://github.com/salte-auth/salte-auth) (OAuth2 library developed by myself and widely utilized. Sunset with plans to develop a replacement)
-- [utils](https://github.com/rain-cafe/utils) (Local only implementation of your favorite tools.)
-- [silvy](https://github.com/rain-cafe-xiv/silvy) (An app for creating, sharing, and collaborating on strats for XIV)
-- [flarie](https://github.com/rain-cafe/flarie) (A universal bot framework!~ 🔥)
+- [utils](https://github.com/ribbon-studios/utils) (Local only implementation of your favorite tools.)
+- [flarie](https://github.com/ribbon-studios/flarie) (A universal bot framework!~ 🔥)
 
 **_[Click here for the rest of my projects!](https://sanare.dev)_**
 
