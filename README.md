@@ -16,7 +16,9 @@ I'm a queer woman with a passion for developing sustainable apps and libraries t
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://ko-fi.com/cecis" target="_blank"><img height="46px" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" title="Ko-fi" alt="Buy Me a Coffee" /></a>
+  <a href='https://ko-fi.com/cecis' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' title="Ko-fi" alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </p>
 
 
