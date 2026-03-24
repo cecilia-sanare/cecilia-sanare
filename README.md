@@ -7,12 +7,12 @@ I'm a queer woman with a passion for developing sustainable apps and libraries t
 
 **Some such apps I'm working on~**
 
-- [protontweaks](https://github.com/ribbon-studios/protontweaks) (Automatically apply necessary protontricks to your games!)
-- [tyria.ribbonstudios.com](https://github.com/ribbon-studios/tyria.ribbonstudios.com) (Achievement tracker for Guild Wars 2)
-- [refreshly](https://github.com/ribbon-studios/refreshly) (A simple expandable key rotation tool)
+- [protontweaks](https://codeberg.org/ribbon-studios/protontweaks) (Automatically apply necessary protontricks to your games!)
+- [tyria.ribbonstudios.com](https://codeberg.org/ribbon-studios/tyria) (Achievement tracker for Guild Wars 2)
+- [refreshly](https://codeberg.org/ribbon-studios/refreshly) (A simple expandable key rotation tool)
 - [salte-auth](https://github.com/salte-auth/salte-auth) (OAuth2 library developed by myself and widely utilized. Sunset with plans to develop a replacement)
-- [utils](https://github.com/ribbon-studios/utils) (Local only implementation of your favorite tools.)
-- [flarie](https://github.com/ribbon-studios/flarie) (A universal bot framework!~ 🔥)
+- [utils](https://codeberg.org/ribbon-studios/utils) (Local only implementation of your favorite tools.)
+- [flarie](https://codeberg.org/ribbon-studios/flarie) (A universal bot framework!~ 🔥)
 
 **_[Click here for the rest of my projects!](https://sanare.dev)_**
 
