@@ -1,3 +1,5 @@
+_**I no longer develop code on GitHub! If you want to check out my current stuff head on over to [codeberg](https://codeberg.org/cecilia-sanare)!**_
+
 ### Hiya!
 
 My name's Ceci and I go by she/her pronouns! <br/>
