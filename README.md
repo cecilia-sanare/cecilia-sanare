@@ -1,4 +1,4 @@
-_**I no use GitHub for development. If you want to check out my current stuff head on over to [codeberg](https://codeberg.org/cecilia-sanare)!**_
+_**I no longer use GitHub for development. If you want to check out my current stuff head on over to [codeberg](https://codeberg.org/cecilia-sanare)!**_
 
 ### Hiya!
 
